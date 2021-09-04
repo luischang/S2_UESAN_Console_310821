@@ -25,5 +25,6 @@ namespace S2_UESAN_Console.Entidades
             this.telefono = telefono;
         }
 
+
     }
 }
